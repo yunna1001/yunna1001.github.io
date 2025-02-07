@@ -104,9 +104,10 @@ sections:
     design:
       # Choose a layout view
       view: date-title-summary
+      show_links: false  # This will remove the "Read more" links
       # Reduce spacing
       spacing:
-        padding: [20px, 20px, 20px, 20px]
+        padding: [0, 0, 0, 0]
 
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
