@@ -90,7 +90,7 @@ sections:
       count: 0
       # Filter on criteria
       filters:
-        author: "Yun"
+        author: ""
         category: ""
         tag: ""
         exclude_featured: false
@@ -106,9 +106,7 @@ sections:
       view: date-title-summary
       # Reduce spacing
       spacing:
-        padding: [0, 0, 20px, 0]
-      # Disable "Read more" link
-      show_more_link: false
+        padding: [20px, 20px, 20px, 20px]
 
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
