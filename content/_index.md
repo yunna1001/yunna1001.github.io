@@ -104,7 +104,6 @@ sections:
     design:
       # Choose a layout view
       view: date-title-summary
-      show_links: false  # This will remove the "Read more" links
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
