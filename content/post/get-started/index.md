@@ -20,7 +20,7 @@ tags:
 
 Welcome 👋
 
-{{< toc mobile_only=true is_open=true >}}
+<!-- {{< toc mobile_only=true is_open=true >}}
 
 ## Overview
 
@@ -83,4 +83,4 @@ Hugo Blox and its templates come with **automatic day (light) and night (dark) m
 
 Copyright 2016-present [George Cushen](https://georgecushen.com).
 
-Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license.
+Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license. -->
