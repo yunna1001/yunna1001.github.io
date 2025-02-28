@@ -51,7 +51,7 @@ interests:
   - Water Footprints
   - Carbon Emissions
   - Renewable Electricity
-  - Biological Diversity
+  # - Biological Diversity
 
 education:
   - area: Ph.D. in Environmental Science
