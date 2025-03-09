@@ -1,5 +1,6 @@
 ---
 title: Publications
+subtitle: '(For the full publication list, please come by my [ResearchGate](https://www.kcl.ac.uk/people/daoping-wang))'
 cms_exclude: true
 
 # View.
@@ -13,6 +14,6 @@ design:
 
 # Optional header image (relative to `static/media/` folder).
 banner:
-  caption: 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'
+  caption: ''
   image: ''
 ---
