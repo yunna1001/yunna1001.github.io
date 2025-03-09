@@ -36,10 +36,9 @@ profiles:
   - icon: brands/cv
     url: uploads/resume.pdf
     label: My CV
-  - icon: ''
-    url: https://www.researchgate.net/profile/Yun-Sun-21
+  - url: https://www.researchgate.net/profile/Yun-Sun-21
     label: My ResearchGate
-    image: https://yunna1001.github.io/icon/ResearchGate_icon_SVG.svg
+    # image: https://yunna1001.github.io/icon/ResearchGate_icon_SVG.svg
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
   # - icon: brands/instagram
