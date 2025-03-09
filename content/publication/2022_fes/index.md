@@ -8,17 +8,17 @@ authors:
   - Lien-Chieh Lee
   - Xinming Li
   - Yuan Wang
-publication: "Frontiers in Environmental Science, Volume 10, 2022 (FES 2022)"
-abstract: The uneven distribution of water resources and production fragmentation make the study of water footprint an important part of water resources management and environmental research. This paper provides a bibliometrics analysis of 3822 papers related to the water footprint topic before 2021, including 2381 English papers from the Science Citation Index (SCI) database and 1441 Chinese papers from the China National Knowledge Infrastructure (CNKI) database. We applied the method of co-word analysis to study the changes in hot research fields in four stages and represented a comparative analysis of highly cited papers and the application of water footprint theory in various sectors. First, water footprint can be divided into two categories: “volumetric” water footprint and “impact-oriented” water footprint. “Volumetric” water footprint methodology focuses on water consumption while “impact-oriented” water footprint methodology focuses more on the environmental impact of water use. Water scarcity, carbon footprint, and grey water are the high-frequency keywords of both two databases. The research linkage of papers related to water footprint from the SCI database has gradually shifted to climate change and carbon emission, while, those from the CNKI database are more closely linked to ecological footprint and sustainable development. Second, SCI’s highly cited papers prefer to study the water footprint through scientific experiments from a bottom-up perspective, while CNKI’s highly cited papers prefer to combine economics and management theories to study the water footprint from a top-down perspective. In addition, water footprint theory is mainly applied in agriculture and industrial sectors and less in service sectors. This paper provides a review of water footprint research on a large scale and a reference for future research on water footprint.
+publication: "Frontiers in Environmental Science, Volume 10, 2022 (FES 2023)"
+abstract: The current state in China is characterised by an increased demand for renewable electricity due to energy shortage and emission reduction targets. This study utilises the contingent valuation method (CVM) to investigate provincial residents' willingness to pay (WTP) for renewable electricity and employs the geographically weighted regression (GWR) model to analyse the spatial heterogeneity of influencing factors. The average WTP for renewable electricity among Chinese residents is 0.85 yuan/kWh, surpassing the current electricity price of 0.5 yuan/kWh. Reducing air pollution and the occurrence of haze is prioritised by residents (66.89%), followed by saving fossil energy and avoiding energy crises (10.09%), and reducing carbon emission and mitigating climate change (22.04%). Chinese residents pay more attention to the immediate impacts of renewable electricity on personal well-being and quality of life. Factors such as economic status, education background, air quality, health concerns, and environmental crisis awareness significantly influence WTP, with spatial disparities further compounding these effects. Sensitivity to economic level and air quality was observed in the southeast, while the southwest showed sensitivity to air quality, and the northwest exhibited sensitivity to environmental awareness. These findings suggest that residents' adoption of renewable electricity could partially alleviate China's funding gap in this sector. Recognising the factors that shape WTP provides a strategic pathway to enhance residents' financial support for renewable electricity initiatives.
 
 draft: false
 featured: false
 links:
 - name: Link
-  url: https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2022.1027936/full
+  url: https://www.sciencedirect.com/science/article/pii/S0959652623033747
 
 tags:
-  - FES
+  - JCP
 image:
   filename: featured
   focal_point: Smart
