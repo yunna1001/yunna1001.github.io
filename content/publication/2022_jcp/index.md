@@ -15,10 +15,10 @@ featured: false
 links:
 - name: Link
   url: https://www.sciencedirect.com/science/article/pii/S0959652622019825
-- name: PDF
-  url: https://arxiv.org/abs/1610.09761
-- name: Poster
-  url: https://peipeizhou-eecs.github.io/uploads/poster/ARAPrototyper_FPGA_2016_poster.pdf
+# - name: PDF
+#   url: https://arxiv.org/abs/1610.09761
+# - name: Poster
+#   url: https://peipeizhou-eecs.github.io/uploads/poster/ARAPrototyper_FPGA_2016_poster.pdf
 
 tags:
   - FPGA
