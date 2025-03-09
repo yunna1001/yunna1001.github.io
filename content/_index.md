@@ -68,10 +68,15 @@ sections:
 
         **[2016/12]** Awarded **National Scholarship**. 🏆  
 
+    design:
+      columns: '1'
 
-
-
-
+  - block: markdown
+    id: publication
+    content:
+      title: 'aaaaaa'
+      text: |-
+        eeeeeeeeeeeeeeee 🎓  
 
     design:
       columns: '1'
