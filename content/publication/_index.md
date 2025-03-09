@@ -2,14 +2,6 @@
 title: Publications
 cms_exclude: true
 
-block: markdown
-  content:
-    title: 'Recent News'
-    text: |-
-      [2025/01]: Defend my Ph.D. degree.
-  design:
-    columns: '1'
-
 
 # View.
 #   1 = List
