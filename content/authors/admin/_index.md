@@ -57,7 +57,7 @@ interests:
   - Water Footprints
   - Carbon Emissions
   - Renewable Electricity
-  # - Biological Diversity
+  - Biological Diversity
 
 education:
   - area: Ph.D. in Environmental Science
@@ -65,10 +65,25 @@ education:
     date_start: 2019-09-01
     date_end: 2025-03-31
     summary: |
-      Thesis on ____. Supervised by [Prof. Yuan Wang](https://faculty.tju.edu.cn/050137/zh_CN/index.htm).
+      Thesis involves environment and economics. Supervised by [Prof. Yuan Wang](https://faculty.tju.edu.cn/050137/zh_CN/index.htm).
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
+  
+  - area: Visiting Student
+    institution: King's College London
+    date_start: 2023-10-23
+    date_end: 2024-04-26
+    summary: |
+      Visit in the Department of Geography, advised by [Prof. Daoping Wang](https://www.kcl.ac.uk/people/daoping-wang) and [Prof. Heran Zheng](https://profiles.ucl.ac.uk/89848-heran-zheng).
+  
+  - area: Guest Student
+    institution: Tstinghua University
+    date_start: 2021-09-01
+    date_end: 2022-03-31
+    summary: |
+      Engagement in [Prof. Zhu Liu's](https://faculty.tju.edu.cn/050137/zh_CN/index.htm)  research group on Carbon Monitor.
+
   - area: B.S. in Environmental Science
     institution: Tianjin University
     date_start: 2015-09-01
@@ -80,6 +95,7 @@ education:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
   - area: B.S. (Minor) Financial Management
     institution: Tianjin University
     date_start: 2017-03-01
@@ -161,10 +177,10 @@ education:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    date: '2023-11-25'
-    awarder: Coursera
+# awards:
+#   - title: Neural Networks and Deep Learning
+#     date: '2023-11-25'
+#     awarder: Coursera
     
   # - title: Neural Networks and Deep Learning
   #   url: https://www.coursera.org/learn/neural-networks-deep-learning
@@ -195,4 +211,4 @@ awards:
 
 ## About Me
 
-I am currently a Ph.D. student at Tianjin University, School of Environmental Science&Engineering,supervised by [Prof. Yuan Wang](https://www.researchgate.net/profile/Wang-Yuan), and also a visiting PH.D. student of the Department of Computer Science of King's College London, advised by [Prof. Daoping Wang](https://www.kcl.ac.uk/people/daoping-wang) and [Prof. Heran Zheng](https://profiles.ucl.ac.uk/89848-heran-zheng).
+I am currently a Ph.D. student at Tianjin University, School of Environmental Science & Engineering, under the supervision of [Prof. Yuan Wang](https://www.researchgate.net/profile/Wang-Yuan). Additionally, I am also a guest researcher in [Prof. Zhu Liu's](https://faculty.tju.edu.cn/050137/zh_CN/index.htm) research group at Tsinghua University. I was a visiting student in the Department of Geography at King's College London, advised by [Prof. Daoping Wang](https://www.kcl.ac.uk/people/daoping-wang) and [Prof. Heran Zheng](https://profiles.ucl.ac.uk/89848-heran-zheng).
