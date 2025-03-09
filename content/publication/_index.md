@@ -1,7 +1,7 @@
 ---
 title: Publications
-# cms_exclude: true
-type: landing
+cms_exclude: true
+# type: landing
 
 # View.
 #   1 = List
