@@ -70,16 +70,6 @@ sections:
 
     design:
       columns: '1'
-
-  - block: markdown
-    id: publication
-    content:
-      title: 'aaaaaa'
-      text: |-
-        eeeeeeeeeeeeeeee 🎓  
-
-    design:
-      columns: '1'
   
   # - block: markdown
   #   content:
