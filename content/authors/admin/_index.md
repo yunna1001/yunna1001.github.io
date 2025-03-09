@@ -82,7 +82,7 @@ education:
     date_start: 2021-09-01
     date_end: 2022-03-31
     summary: |
-      Engagement in [Prof. Zhu Liu's](https://faculty.tju.edu.cn/050137/zh_CN/index.htm)  research group on Carbon Monitor.
+      Engagement in [Prof. Zhu Liu's](http://faculty.dess.tsinghua.edu.cn/liuzhu/en/index.htm)  research group on Carbon Monitor.
 
   - area: B.S. in Environmental Science
     institution: Tianjin University
@@ -211,4 +211,4 @@ education:
 
 ## About Me
 
-I am currently a Ph.D. student at Tianjin University, School of Environmental Science & Engineering, under the supervision of [Prof. Yuan Wang](https://www.researchgate.net/profile/Wang-Yuan). Additionally, I am also a guest researcher in [Prof. Zhu Liu's](https://faculty.tju.edu.cn/050137/zh_CN/index.htm) research group at Tsinghua University. I was a visiting student in the Department of Geography at King's College London, advised by [Prof. Daoping Wang](https://www.kcl.ac.uk/people/daoping-wang) and [Prof. Heran Zheng](https://profiles.ucl.ac.uk/89848-heran-zheng).
+I am currently a Ph.D. student at Tianjin University, School of Environmental Science & Engineering, under the supervision of [Prof. Yuan Wang](https://www.researchgate.net/profile/Wang-Yuan). Additionally, I am also a guest researcher in [Prof. Zhu Liu's](https://scholar.harvard.edu/zhu/home) research group at Tsinghua University. I was a visiting student in the Department of Geography at King's College London, advised by [Prof. Daoping Wang](https://www.kcl.ac.uk/people/daoping-wang) and [Prof. Heran Zheng](https://profiles.ucl.ac.uk/89848-heran-zheng).
