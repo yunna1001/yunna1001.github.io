@@ -22,10 +22,10 @@ links:
   url: https://peipeizhou-eecs.github.io/uploads/poster/ARAPrototyper_FPGA_2016_poster.pdf
 
 tags:
-  - FPGA
+  - JCR
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2016-02-17T11:10:10.250Z
+date: 2022
 ---
