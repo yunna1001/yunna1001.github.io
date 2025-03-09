@@ -1,23 +1,19 @@
 ---
-title: "Critica" 
+title: "Economic environmental imbalance in China — Inter-city air pollutant emission linkage in Beijing–Tianjin–Hebei (BTH) urban agglomeration" 
 publication_types:
   - "1"
 authors:
   - admin
   - Yuan Wang
-  - Heran Zheng
   - Zengkai Zhang
-  - Yanwei Wang
-  - Heng Li
-  - Yaling Lu
-publication: "Journal of Cleaner Production, Volume 362, 2022 (JCP 2022)"
-abstract: CoChina's air pollution policies prioritize city heterogeneity, and launch the one-city-one-policy framework. Production fragmentation extends air pollution policies beyond the local scale. Therefore, air pollution needs to be controlled in coordination between cities rather than individually, considering the pollution embodied in supply chains. We illustrate the embodied NOx in supply chains and its transfer patterns in the highly polluted Beijing-Tianjin-Hebei (BTH) urban agglomeration in China, with a city-level multiregional input-output (MRIO) model in 2012. The results indicate that Tangshan and Beijing are BTH cities with the highest production- and consumption-based NOx emissions, respectively. The electricity and heat, metal, and nonmetal sectors are the main suppliers in the NOx supply chains. The critical supply chain paths largely terminate at the final demand of the construction sector in Beijing, Tianjin, Baoding and Shijiazhuang and the equipment manufacturing sector in southeastern Chinese provinces. Despite industry heterogeneity, the NOx transfer pattern between BTH cities is generally efficient, extending from low-to high-emission intensity cities, while the pattern between BTH cities and other provinces is the opposite. The results reveal the city-level emission reduction potential. The emission intensities of BTH production-oriented cities should be reduced because the transfer of polluting enterprises to southeastern coastal areas is unrealistic. Financial incentives can be offered to enterprises purchasing products from low-emission intensity enterprises. It is an effective measure to establish a capital and technical cooperation system between key supply chains node cities, such as Tangshan and its major steel product consumption regions.
+publication: "Journal of Environmental Management, Volume 308, 2022 (JEM 2022)"
+abstract: Production fragmentation makes the air pollution policy no longer at the local scale but requires accounting more about embodied emissions cross-region through supply chains. Here, we map the consumption-driven NOx networks of Beijing-Tianjin-Hebei urban agglomeration (BTH) in China using the city-level multi-regional input-output model. The results show that the construction, service, and equipment manufacturing sectors in Beijing and Tianjin indirectly drive more than half of BTH NOx emissions (54%). Moreover, 75% of NOx flows in the supply chains are traded from cities with low efficiency (high intensity) to cities with high efficiency (low intensity), which reflects the economic environmental imbalance in BTH. Especially, for the metals smelting and pressing sector and nonmetal mineral products sector, there is a wider gap in emission intensity between production-oriented cities (1.03–4.43 Mt/million yuan) and consumer-oriented cities (0.08–0.45 Mt/million yuan), which leads to additional emissions of air pollutants to increase. At the same time, for the provinces in the south and north China, the role of BTH in the supply chain is different, which leads to an economic environmental imbalance between the north and the south. Synchronous outsourcing of production and technology is the key to solving the economic environmental imbalance. The consumption-oriented high-income cities are suggested to increase the financial and technical support to improve the efficiency of pollution control in production-oriented cities.
 
 draft: false
 featured: false
 links:
 - name: Link
-  url: https://www.sciencedirect.com/science/article/pii/S0959652622019825
+  url: https://www.sciencedirect.com/science/article/pii/S0301479722001748
 
 tags:
   - JEM
