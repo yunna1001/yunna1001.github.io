@@ -35,7 +35,7 @@ sections:
       title: HONORS & AWARDS
       username: admin
       text: |-
-        **🏆 Excellent Report Award**, The 2nd National Environmental Postdoctoral Forum, 2025 
+        **🏆 Excellent Report Award**, The 2nd National Environmental Postdoctoral Forum, 2025
     design:
       columns: '1'
 
