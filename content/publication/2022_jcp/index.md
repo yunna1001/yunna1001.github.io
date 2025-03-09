@@ -19,9 +19,9 @@ links:
 - name: Link
   url: https://www.sciencedirect.com/science/article/pii/S0959652622019825
 - name: PDF
-  url: https://yunna1001.github.io/publication/2022-JCP/2022_JCP.pdf
+  url: https://yunna1001.github.io/content/publication/2022-JCP/2022_JCP.pdf
 - name: CITE
-  url: https://yunna1001.github.io/publication/2022-JCP/2022_JCP_cite.bib
+  url: https://yunna1001.github.io/content/publication/2022-JCP/2022_JCP_cite.bib
 
 tags:
   - JCP
