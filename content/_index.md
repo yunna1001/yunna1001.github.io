@@ -36,9 +36,39 @@ sections:
     content:
       title: 'Recent News'
       text: |-
-        [2025/01]: Defend my Ph.D. degree.
+        **[2025/01]** Defended my Ph.D. degree. 🎓  
+        
+        **[2025/01]** Received the **Excellent Report Award** at the **2nd National Environmental Postdoctoral Forum**. 🏆  
 
-        [2019/08]: I am enrolled at Tianjin University as a Ph.D. student.
+        **[2023/08]** Awarded **Second Prize** in the **5th National Competition in Science & Technology on Renewable Energy for College Students**. 🏆  
+
+        **[2023/07]** Paper **"Residents' willingness to pay for renewable electricity"** accepted in *Journal of Cleaner Production*. 📄  
+
+        **[2022/10]** Awarded **First Prize** in the **"Jijia Cup" Intellectual Property Science Popularization Pioneer Competition**. 🏆  
+
+        **[2022/06]** Paper **"Economic environmental imbalance in China"** accepted in *Journal of Environmental Management*. 📄  
+
+        **[2022/05]** Paper **"Critical supply chains of NOx emissions"** accepted in *Journal of Cleaner Production*. 📄  
+
+        **[2022/04]** Paper **"A bibliometrics review of hotspots in water footprint research"** accepted in *Frontiers in Environmental Science*. 📄  
+
+        **[2021/10]** Awarded **Third Prize** in the **14th "Challenge Cup" Academic Science and Technology Works Competition** at **Tianjin University**. 🏆  
+
+        **[2021/07]** Awarded **Third Prize** in the **7th National College Students Academic Creativity Competition on Energy Economy**. 🏆  
+
+        **[2020/09]** Awarded **Silver Award** in the **2nd National College Student Sports Industry Innovation and Entrepreneurship Competition**. 🏆  
+
+        **[2019/10]** Awarded **First-class Academic Scholarship**. 🏆 
+
+        **[2019/08]** Enrolled as a Ph.D. student at **Tianjin University**. 🏫 
+
+        **[2016/12]** Awarded **National Scholarship**. 🏆  
+
+
+
+
+
+
     design:
       columns: '1'
   
