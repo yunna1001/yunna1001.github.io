@@ -1,7 +1,7 @@
 ---
 title: "Critical supply chains of NOx emissions in the Beijing-Tianjin-Hebei urban agglomeration" 
 publication_types:
-  - "1"
+  - "3"
 authors:
   - admin
   - Yuan Wang
@@ -16,15 +16,13 @@ abstract: China's air pollution policies prioritize city heterogeneity, and laun
 draft: false
 featured: false
 links:
-- name: Link
-  url: https://www.sciencedirect.com/science/article/pii/S0959652622019825
-# - name: PDF
-#   url: https://yunna1001.github.io/content/publication/2022-JCP/2022_JCP.pdf
-# - name: CITE
-#   url: https://yunna1001.github.io/content/publication/2022-JCP/2022_JCP_cite.bib
+- name: PDF
+  url: https://arxiv.org/abs/1610.09761
+- name: Poster
+  url: https://peipeizhou-eecs.github.io/uploads/poster/ARAPrototyper_FPGA_2016_poster.pdf
 
 tags:
-  - JCP
+  - FPGA
 image:
   filename: featured
   focal_point: Smart
