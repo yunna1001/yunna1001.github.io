@@ -15,7 +15,7 @@ draft: false
 featured: false
 links:
 - name: Link
-  url: https://www.sciencedirect.com/science/article/pii/S0959652623033747
+  url: https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2022.1027936/full
 
 tags:
   - FES
