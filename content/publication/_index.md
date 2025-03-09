@@ -1,7 +1,15 @@
 ---
 title: Publications
-subtitle: '(For the full publication list, please come by my [ResearchGate](https://www.kcl.ac.uk/people/daoping-wang))'
 cms_exclude: true
+
+block: markdown
+  content:
+    title: 'Recent News'
+    text: |-
+      [2025/01]: Defend my Ph.D. degree.
+  design:
+    columns: '1'
+
 
 # View.
 #   1 = List
