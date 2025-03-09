@@ -9,7 +9,7 @@ authors:
   - Xinming Li
   - Yuan Wang
 publication: "Frontiers in Environmental Science, Volume 10, 2022 (FES 2022)"
-abstract: The uneven distribution of water resources and production fragmentation make the study of water footprint an important part of water resources management and environmental research. This paper provides a bibliometrics analysis of 3822 papers related to the water footprint topic before 2021, including 2381 English papers from the Science Citation Index (SCI) database and 1441 Chinese papers from the China National Knowledge Infrastructure (CNKI) database. We applied the method of co-word analysis to study the changes in hot research fields in four stages and represented a comparative analysis of highly cited papers and the application of water footprint theory in various sectors. First, water footprint can be divided into two categories: “volumetric” water footprint and “impact-oriented” water footprint. 
+abstract: The uneven distribution of water resources and production fragmentation make the study of water footprint an important part of water resources management and environmental research. 
 
 draft: false
 featured: false
