@@ -40,6 +40,8 @@ sections:
         
         **[2025/01]** Received the **Excellent Report Award** at the **2nd National Environmental Postdoctoral Forum**. 🏆  
 
+        **[2023/01]** Started my **Visiting Ph.D. Student** program at **King’s College London**. 📍 
+
         **[2023/08]** Awarded **Second Prize** in the **5th National Competition in Science & Technology on Renewable Energy for College Students**. 🏆  
 
         **[2023/07]** Paper **"Residents' willingness to pay for renewable electricity"** accepted in *Journal of Cleaner Production*. 📄  
@@ -51,6 +53,8 @@ sections:
         **[2022/05]** Paper **"Critical supply chains of NOx emissions"** accepted in *Journal of Cleaner Production*. 📄  
 
         **[2022/04]** Paper **"A bibliometrics review of hotspots in water footprint research"** accepted in *Frontiers in Environmental Science*. 📄  
+
+        **[2021/10]** Started as a **Guest Researcher** in **Zhu Liu’s Research Group (Carbon Monitor) at Tsinghua University**. 📍  
 
         **[2021/10]** Awarded **Third Prize** in the **14th "Challenge Cup" Academic Science and Technology Works Competition** at **Tianjin University**. 🏆  
 
