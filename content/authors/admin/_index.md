@@ -195,4 +195,4 @@ awards:
 
 ## About Me
 
-I am currently a Ph.D. student at Tianjin University, School of Environmental Science&Engineering. I am pursing my Ph.D. in Environmental Science,supervised by [Prof. Yuan Wang](https://faculty.tju.edu.cn/050137/zh_CN/index.htm). My major interest is in , e.g.,.
+I am currently a Ph.D. student at Tianjin University, School of Environmental Science&Engineering,supervised by [Prof. Yuan Wang](https://www.researchgate.net/profile/Wang-Yuan), and also a visiting PH.D. student of the Department of Computer Science of King's College London, advised by [Prof. Daoping Wang](https://www.kcl.ac.uk/people/daoping-wang) and [Prof. Heran Zheng](https://profiles.ucl.ac.uk/89848-heran-zheng).
