@@ -1,5 +1,5 @@
 ---
-title: "ARAPrototyper: Enabling Rapid Prototyping and Evaluation for Accelerator-Rich Architecture" 
+title: "ARAPrototyper: Enabling Rapid Prototyping and Evaluation for Accelerator-Rich Architectu" 
 publication_types:
   - "3"
 authors:
