@@ -33,6 +33,12 @@ profiles:
   - icon: envelope
     url: 'mailto:yunna@tju.edu.cn'
     label: E-mail Me
+  - icon: brands/cv
+    url: uploads/resume.pdf
+    label: My CV
+  - icon: brands/researchgate
+    url: https://www.researchgate.net/profile/Yun-Sun-21
+    label: My ResearchGate
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
   # - icon: brands/instagram
