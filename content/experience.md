@@ -18,16 +18,27 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
+
   # - block: resume-skills
   #   content:
   #     title: Skills & Hobbies
   #     username: admin
   #   design:
   #     show_skill_percentage: false
-  - block: resume-awards
+
+  # - block: resume-awards
+  #   content:
+  #     title: Awards
+  #     username: admin
+  - block: markdown
     content:
-      title: Awards
+      title: HONORS & AWARDS
       username: admin
+      text: |-
+        **🏆 Excellent Report Award**, The 2nd National Environmental Postdoctoral Forum, 2025 
+    design:
+      columns: '1'
+
   # - block: resume-languages
   #   content:
   #     title: Languages
