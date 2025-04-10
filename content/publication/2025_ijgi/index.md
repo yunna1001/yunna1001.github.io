@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Mei Shan
   - Yue Xu
-  - Yun Sun
+  - admin
   - Yuan Wang
   - Lei Li
   - Zhi Qiao
