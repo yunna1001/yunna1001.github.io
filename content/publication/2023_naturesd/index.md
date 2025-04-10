@@ -29,7 +29,7 @@ authors:
   - Zhu Deng
   - Zhu Liu
 
-publication: "Journal of Scientific Data, Volume 10, Article 69 (2023)"
+publication: "Scientific Data, Volume 10, 2023 (SciData 2023)"
 abstract: |
   We present a near-real-time global gridded daily CO2 emissions dataset (GRACED) throughout 2021. GRACED provides gridded CO2 emissions at a 0.1° × 0.1° spatial resolution and 1-day temporal resolution from cement production and fossil fuel combustion over seven sectors, including industry, power, residential consumption, ground transportation, international aviation, domestic aviation, and international shipping. GRACED is prepared from the near-real-time daily national CO2 emissions estimates (Carbon Monitor), multi-source spatial activity data emissions and satellite NO2 data for time variations of those spatial activity data. GRACED provides the most timely overview of emissions distribution changes, which enables more accurate and timely identification of when and where fossil CO2 emissions have rebounded and decreased. Uncertainty analysis of GRACED gives a grid-level two-sigma uncertainty of value of ±19.9% in 2021, indicating the reliability of GRACED was not sacrificed for the sake of higher spatiotemporal resolution that GRACED provides. Continuing to update GRACED in a timely manner could help policymakers monitor energy and climate policies’ effectiveness and make adjustments quickly.
 
