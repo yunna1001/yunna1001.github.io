@@ -1,5 +1,6 @@
 ---
 title: Publications
+subtitle: Selected Research Outputs
 cms_exclude: true
 # type: landing
 
