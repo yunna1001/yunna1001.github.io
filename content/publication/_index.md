@@ -1,6 +1,5 @@
 ---
 title: Publications
-subtitle: Selected Research Outputs
 cms_exclude: true
 # type: landing
 
@@ -18,3 +17,5 @@ banner:
   caption: ''
   image: ''
 ---
+
+<p style="font-size: 0.9rem; color: gray;">Selected Research Works</p>
