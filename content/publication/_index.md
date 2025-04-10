@@ -18,5 +18,6 @@ banner:
   image: ''
 ---
 
-<p style="font-size: 0.9rem; color: gray;"> For the full publication list, please refer to my [ResearchGate](https://www.researchgate.net/profile/Yun-Sun-21) </p>
+<!-- <p style="font-size: 0.9rem; color: gray;"> For the full publication list, please refer to my [ResearchGate](https://www.researchgate.net/profile/Yun-Sun-21) </p> -->
+<p style="font-size: 0.9rem; color: gray; text-align: center;"><em>For the full publication list, please refer to my <a href="https://www.researchgate.net/profile/Yun-Sun-21">ResearchGate</a></em></p>
 
