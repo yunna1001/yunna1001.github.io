@@ -18,4 +18,5 @@ banner:
   image: ''
 ---
 
-<p style="font-size: 0.9rem; color: gray;">Selected Research Works</p>
+<p style="font-size: 0.9rem; color: gray;"> For the full publication list, please refer to my [ResearchGate](https://www.researchgate.net/profile/Yun-Sun-21) </p>
+
