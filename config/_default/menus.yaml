@@ -32,5 +32,5 @@ main:
   #   url: teaching/
   #   weight: 40
   - name: Misc
-    url: /#research
+    url: /misc
     weight: 60
