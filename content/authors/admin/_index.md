@@ -211,6 +211,6 @@ education:
 
 ## About Me
 
-I am a Ph.D. graduated from Tianjin University, School of Environmental Science & Engineering, under the supervision of [Prof. Yuan Wang](https://www.researchgate.net/profile/Wang-Yuan). Additionally, I am also a guest researcher in [Prof. Zhu Liu's](https://scholar.harvard.edu/zhu/home) research group at Tsinghua University. I was a visiting student in the Department of Geography at King's College London, advised by [Prof. Daoping Wang](https://www.kcl.ac.uk/people/daoping-wang) and [Prof. Heran Zheng](https://profiles.ucl.ac.uk/89848-heran-zheng).
+I obtained my Ph.D. degree from Tianjin University, School of Environmental Science & Engineering, under the supervision of [Prof. Yuan Wang](https://www.researchgate.net/profile/Wang-Yuan). Additionally, I am also a guest researcher in [Prof. Zhu Liu's](https://scholar.harvard.edu/zhu/home) research group at Tsinghua University. I was a visiting student in the Department of Geography at King's College London, advised by [Prof. Daoping Wang](https://www.kcl.ac.uk/people/daoping-wang) and [Prof. Heran Zheng](https://profiles.ucl.ac.uk/89848-heran-zheng).
 
 I am on the 2024-25 academic job market. 

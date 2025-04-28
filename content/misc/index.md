@@ -14,7 +14,7 @@ banner:
 ---
 
 ## ACADEMIC ACTIVITIES  
-### & SOCIAL PRACTICE
+## & SOCIAL PRACTICE
 
 - **Internet editor**, WeChat public platform for **Resources, Conservation and Recycling**  (2019 – present)
 - **President** of PhD. Student Council  (2020)
