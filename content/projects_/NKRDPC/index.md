@@ -1,7 +1,7 @@
 ---
 title: National Key Research and Development Program of China
 summary: 国家重点研发计划
-date: 2025-04-28
+date: 2025-04-20
 type: docs
 math: false
 tags:

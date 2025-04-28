@@ -1,7 +1,7 @@
 ---
 title: Alibaba Damo Institute
 summary: 阿里巴巴达摩院
-date: 2025-04-28
+date: 2025-04-20
 type: docs
 math: false
 tags:

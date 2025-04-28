@@ -1,7 +1,7 @@
 ---
 title: National Natural Science Foundation of China
 summary: 国家自然科学基金委员会
-date: 2025-04-29
+date: 2025-04-25
 type: docs
 math: false
 tags:
