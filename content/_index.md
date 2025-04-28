@@ -72,6 +72,7 @@ sections:
       columns: '1'
   
   - block: markdown
+    id: research
     content:
       title: '📚 My Research'
       subtitle: ''
